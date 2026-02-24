@@ -9,14 +9,14 @@ I am a Computer Science student at the University of Denver with a concentration
 
 - AI Sports Scout & Engagement Engine: Teaching myself Ruby to build a back-end engine that processes sports telemetry data into gamified player archetypes using the Gemini API .
 
-- Deep Learning: Refining my knowledge of PyTorch by building models to predict EV charging loads .
+- Deep Learning & IoT: Applying PyTorch and TensorFlow models within Internet of Things (IoT) environments. This includes simulating Arduino and Raspberry Pi Pico projects in Wokwi, and deploying dependencies on a Raspberry Pi 4 via SSH to handle real-time data messaging with MQTT.
 
 ## 💻 Tech Stack
 Category | Badges |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-ffa6c1?style=for-the-badge&logo=python&logoColor=black) ![Ruby](https://img.shields.io/badge/ruby-C51A4A?style=for-the-badge&logo=ruby&logoColor=white) ![Java](https://img.shields.io/badge/java-ffa6c1?style=for-the-badge&logo=openjdk&logoColor=black) ![SQL](https://img.shields.io/badge/mysql-C51A4A.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/c++-ffa6c1?style=for-the-badge&logo=c%2B%2B&logoColor=black) ![R](https://img.shields.io/badge/r-C51A4A.svg?style=for-the-badge&logo=r&logoColor=white)|
 | **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-ffa6c1.svg?style=for-the-badge&logo=PyTorch&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-C51A4A.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-ffa6c1.svg?style=for-the-badge&logo=numpy&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-C51A4A.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Tools** | ![macOS](https://img.shields.io/badge/mac%20os-ffa6c1?style=for-the-badge&logo=apple&logoColor=black)![Git](https://img.shields.io/badge/git-C51A4A.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-ffa6c1?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)  |
+| **Tools** | ![macOS](https://img.shields.io/badge/mac%20os-ffa6c1?style=for-the-badge&logo=apple&logoColor=black)![Git](https://img.shields.io/badge/git-C51A4A.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-ffa6c1?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-ffa6c1?style=for-the-badge&logo=Arduino&logoColor=black)|
 
 
 ## 📊 Project Highlights
